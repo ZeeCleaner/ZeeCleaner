@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
 ###
 
@@ -30,10 +30,10 @@
 ###
 
 <div align="left">
-  <a href="ernsttheart@gmail.com" target="_blank">
+  <a href="mailto:ernsttheart@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/ernst-zeeman-theart" target="_blank">
+  <a href="https://www.linkedin.com/in/ernst-zeeman-theart" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -42,6 +42,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ZeeCleaner/ZeeCleaner/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/ZeeCleaner/YOUR_REPO/output/snake.svg" alt="Snake animation" />
