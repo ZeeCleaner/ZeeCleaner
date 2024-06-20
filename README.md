@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ZeeCleaner/ZeeCleaner/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ZeeCleaner/ZeeCleaner/output/snake.svg" alt="Snake animation" />
 
 ###
