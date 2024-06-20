@@ -42,4 +42,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ZeeCleaner/YOUR_REPO/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ZeeCleaner/ZeeCleaner/output/snake.svg" alt="Snake animation" />
